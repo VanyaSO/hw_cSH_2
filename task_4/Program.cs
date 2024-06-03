@@ -71,7 +71,14 @@ namespace task_4
             string logicalExpression = Console.ReadLine();
 
 
-            Console.WriteLine(Сalculation(logicalExpression));
+            try
+            {
+                Console.WriteLine(Сalculation(logicalExpression));
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
         }
     }
 }

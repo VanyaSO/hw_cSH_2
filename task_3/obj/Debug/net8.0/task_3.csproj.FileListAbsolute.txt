@@ -12,3 +12,4 @@
 /Users/ivanushachov/Desktop/hw_cSH_2/task_3/obj/Debug/net8.0/task_3.pdb
 /Users/ivanushachov/Desktop/hw_cSH_2/task_3/obj/Debug/net8.0/task_3.genruntimeconfig.cache
 /Users/ivanushachov/Desktop/hw_cSH_2/task_3/obj/Debug/net8.0/ref/task_3.dll
+/Users/ivanushachov/Desktop/hw_cSH_2/task_3/obj/Debug/net8.0/task_3.sourcelink.json
